@@ -11,3 +11,7 @@ Bibliothèque d’exemples réalisés par des étudiants. Cliquez sur une miniat
 |:---:|:---:|:---:|
 | <a href="https://www.youtube.com/watch?v=NAqVQ0Ww7rM"><img src="https://img.youtube.com/vi/NAqVQ0Ww7rM/hqdefault.jpg" alt="Ilan" width="100%"></a> | <a href="https://www.youtube.com/watch?v=B0Ok6VpqAmU"><img src="https://img.youtube.com/vi/B0Ok6VpqAmU/hqdefault.jpg" alt="Elliot" width="100%"></a> | <a href="https://www.youtube.com/watch?v=4cpNzJthS6M"><img src="https://img.youtube.com/vi/4cpNzJthS6M/hq1.jpg" alt="Ulysse & Rawan" width="100%"></a> |
 | C29 Lille | C29 Lille | C29 Lille |
+
+---
+
+[← Retour aux consignes](README.md)

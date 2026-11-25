@@ -1,5 +1,7 @@
 # 🎬 Vidéo de fin de projet : les attendus
 
+<img width="1672" height="941" alt="Présentation de projet au coucher du soleil" src="https://github.com/user-attachments/assets/bbd251df-e184-41ba-82a4-8d4ff158dd89" />
+
 L’objectif est de présenter votre application à une personne qui ne la connaît pas, puis d’expliquer les choix techniques qui se cachent derrière.
 
 ## ⏱️ Une vidéo de 2 à 6 minutes au total
